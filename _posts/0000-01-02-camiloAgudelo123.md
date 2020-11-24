@@ -1,0 +1,6 @@
+---
+diseño: título de la diapositiva
+: " ¡ Bienvenidos a la segunda pagina!"
+---
+Tu texto
+Utiliza la flecha hacia la izqueirda para volver!
